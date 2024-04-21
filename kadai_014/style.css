@@ -7,9 +7,30 @@ h1{
   font-weight: 400;
   font-style: normal;
   font-size: 40px;
- color: skyblue; 
-
-decoration {
-   /* ここにCSSを書いていきます */
-  font-size: 20px;
+  text-align: center;
+  letter-spacing: 1.2em;
+  text-shadow: .2px .2cap .2px gray
 }
+span{
+    color: skyblue; 
+  }
+   .h1,underline-text {
+      text-decoration: underline;
+           font-size:3px;
+     color:rgb(115, 115, 114);
+    }
+.text-pink{
+      color:rgb(255,192,203);
+       }
+.text-blue {
+       color: skyblue; 
+      }
+
+.h1,h2,p,decoration {
+  text-align: center;
+   /* ここにCSSを書いていきます */
+}
+.decoration {
+    font-weight: bold;
+  }
+  
