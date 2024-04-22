@@ -14,11 +14,11 @@ h1{
 span{
     color: skyblue; 
   }
-   .h1,underline-text {
-      text-decoration: underline;
-           font-size:3px;
+  #decoration {
+    border-bottom: solid  3px;
      color:rgb(115, 115, 114);
     }
+  
 .text-pink{
       color:rgb(255,192,203);
        }
