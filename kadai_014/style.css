@@ -15,10 +15,9 @@ span{
     color: skyblue; 
   }
   #decoration {
-    border-bottom: solid  3px;
-    color:rgb(115, 115, 114);
+    border-bottom: solid  3px rgb(115, 115, 114);
     }
- #basic div P{
+ #basic p{
    font-weight: bold;
    text-align: center;
      }
@@ -28,8 +27,6 @@ span{
 .text-blue {
    color: skyblue; 
       }
-.h1,h2,p,decoration {
+h1,h2,p,.decoration {
   text-align: center;
 }
-
-  
